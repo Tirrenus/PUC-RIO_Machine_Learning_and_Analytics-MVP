@@ -3,7 +3,7 @@
 ## Curso Ciência de Dados e Analytics - Set/2025
 
 
-Aluno: Fabio Nunes Martins.
+Aluno: Fabio Nunes Martins  - Matrícula: 4052024002332
 
 Professor: Hugo Villamizar
 
