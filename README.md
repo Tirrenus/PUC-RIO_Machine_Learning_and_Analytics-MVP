@@ -12,7 +12,7 @@ Professor: Patrick Happ
 
 
 
-Este MVP tem por objetivo gerar um modelo de Machine Learning treinado, para dar apoiar uma empresa que presta serviço de Suporte em TI, na predição de se os tickets abertos tem chances de atender ou não atender ao SLA contradado .
+Este MVP tem por objetivo gerar um modelo de Machine Learning treinado, para apoiar uma empresa que presta serviço de Suporte em TI, na predição de se os tickets abertos tem chances de atender ou não atender ao SLA contradado .
 
 Com o apoio da Machine Learning com aprendizado SUPERVISIONADO e tratando com um problema de CLASSIFICAÇÃO , esta análise visa apoiar decisões da empresa em futuras renovações de contratos que sejam baseados em SLA( Service Level Agreement), e nas possíveis readequações de suas equipes.
 
