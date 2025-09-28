@@ -20,7 +20,8 @@ Foram analisados os dados referentes aos tickets de Incidentes abertos entre Fev
 
 
         
-<a href="">IPython Notebook</a>
+<a href="PUC_RIO_Machine_Learning_&_Analytics_MVP_20250928_3_1_5k.ipynb">IPython Notebook</a>
+
 
 
 
